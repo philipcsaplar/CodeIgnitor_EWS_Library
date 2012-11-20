@@ -36,4 +36,4 @@ All questions should use the [issue queue](https://github.com/philipcsaplar/Code
 ### Other Contributions
 Have you found this library helpful? Why not take a minute to endorse my hard work on [coderwall](http://coderwall.com)! Just click the badge below:
 
-[![](http://api.coderwall.com/philipcsaplar/endorsecount.png)](http://coderwall.com/philipcsaplar
+[![endorse](http://api.coderwall.com/philipcsaplar/endorsecount.png)](http://coderwall.com/philipcsaplar)
