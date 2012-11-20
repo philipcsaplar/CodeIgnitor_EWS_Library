@@ -1,3 +1,24 @@
+# CodeIgnitor EWS Library
+Is a custom built Codignitor Library to eases the intergration of connecting to your Microsoft Exchange Server via the Exchange Web Services SOAP API, all functions are there to help you get your development complete ASAP. 
+
+# Dependencies
+* PHP 5.2+
+* cURL with NTLM support (7.23.0+ recommended)
+* Exchange 2007 or 2010*
+* James Armes PHP-EWS ](https://github.com/jamesiarmes/php-ews)
+* CodeIgnitor 2.0+ (http://codeignitor.com)
+
+
+## Installation
+Clone the project from git into the desired location.
+
+```
+git clone git@github.com:philipcsaplar/CodeIgnitor_EWS_Library CodeIgnitor_EWS_Library
+```
+
+Installation is really simple, i have kept the folder structure of Codeignitor so all you need to do is copy and paste the files into there respective folders.
+
+
 ## Usage
 I have created a test_ews.php file under the application/controller folder , in it i have created some functions that will help you understand how to use the Library.
 
