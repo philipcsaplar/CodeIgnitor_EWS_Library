@@ -1,5 +1,5 @@
 # CodeIgnitor EWS Library
-Is a custom built Codignitor Library to eases the intergration of connecting to your Microsoft Exchange Server via the Exchange Web Services SOAP API, all functions are there to help you get your development complete ASAP. 
+Is a custom built Codeignitor Library to eases the intergration of connecting to your Microsoft Exchange Server via the Exchange Web Services SOAP API, all functions are there to help you get your development complete ASAP. 
 
 # Dependencies
 * PHP 5.2+
