@@ -18,6 +18,14 @@ git clone git@github.com:philipcsaplar/CodeIgnitor_EWS_Library CodeIgnitor_EWS_L
 
 Installation is really simple, i have kept the folder structure of Codeignitor so all you need to do is copy and paste the files into there respective folders.
 
+application/controller/test_ews.php - Test functions to help you get started.
+
+application/libraries/EWS/ - James Armes PHP-EWS
+
+application/libraries/EWS/lock_and_load.php  - Bootstrap file that helps load all the classes from PHP-EWS
+
+application/libraries/Ews.php - Codeignitor Library
+
 
 ## Usage
 I have created a test_ews.php file under the application/controller folder , in it i have created some functions that will help you understand how to use the Library.
